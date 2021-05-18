@@ -1,0 +1,9 @@
+create_split.py
+create_split.ipynb
+pre_elab.py
+settings.py
+dataset/Citeseer/*.npy
+dataset/Citeseer/*.content
+dataset/Citeseer/*.cites
+.ipynb_checkpoints
+__pycache__
